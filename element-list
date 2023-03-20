@@ -1,0 +1,10 @@
+unnamed package
+domain
+domain.validators
+exceptions
+repository
+repository.memory
+service
+tests
+ui
+utils
